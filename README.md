@@ -1,7 +1,7 @@
 ###
 <h1 align="center">Hi 👋, I'm Ahsanul Hakim</h1>
 <h3 align="center">A Passionate Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
 
 - 🌱 I’m currently learning **NEXT JS AND REACT JS**
 
