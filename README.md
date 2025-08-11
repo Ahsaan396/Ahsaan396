@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Ahsanul Hakim</h1>
 <h3 align="center">A Passionate Programmer</h3>
 <img align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+<br>
+
+
+
+
 
 - 🌱 I’m currently learning **NEXT JS AND REACT JS**
 
