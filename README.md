@@ -1,77 +1,89 @@
-<!-- Animated Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FEEF&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsanul+Hakim!;Full-stack+Developer+from+Bangladesh!;Love+Coding+%E2%9D%A4%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</h1>
+###
+<h1 align="center">Hi 👋, I'm Ahsanul Hakim</h1>
+<h3 align="center">A Passionate Programmer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
----
+- 🌱 I’m currently learning **NEXT JS AND REACT JS**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF">
+- 🤝 I’m looking for help with **WEB DEVELOPMENT**
+
+- 💬 Ask me about **WEB DEVELOPING**
+
+- 📫 How to reach me **ahsanulhakim285@gmail.com**
+
+- ⚡ Fun fact **I'm part-time teacher full time coder**
+<br>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ahsanul-hakim-3579221ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="101rror" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ahsanul_hakim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="101rror" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Honeyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="101rror" height="30" width="40" /></a>
+<a href="[https://www.codechef.com/users/mr_101rror](https://www.codechef.com/users/honeyy__)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr_101rror" height="30" width="40" /></a>
 </p>
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **Next.js**, **React.js**
-- 💬 Ask me about: **ICT**, **JavaScript**, **Economics**
-- 📫 Reach out: [ahsanulhakim285@gmail.com](mailto:ahsanulhakim285@gmail.com)
-- ⚡ Fun Fact: _I'm a coder and part-time teacher!_
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ahsanulhakim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/ahsanulhakim" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/honeyy__" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/hobeyy" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,flutter,php,python,tailwind,html,css,linux,git,figma,postman" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahsaan396&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaan396&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<br>
 
 
----
 
-## 🏆 GitHub Trophies
+<h3 align="left">Languages and Tools :</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahsaan396&theme=algolia&no-bg=true&no-frame=true&margin-w=10" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+</div>
+<br>
 
----
 
-## 💡 Quote of the Day
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahsaan396&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahsaan396&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ahsaan396&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Ahsaan396&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsaan396&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+<br>
 
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FEEF,100:8E2DE2&height=100&section=footer"/>
-</p>
+<h3 align="left">Visitor :</h3>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ahsaan396/count.svg?"  />
+</div>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahsaan396/Ahsaan396/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahsaan396/Ahsaan396/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ahsaan396/Ahsaan396/output/github-snake.svg" />
+</picture>
