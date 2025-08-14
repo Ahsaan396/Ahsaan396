@@ -78,9 +78,9 @@
 </div>
 <br>
 
-<h3 align="left">Visitor :</h3>
+<h3 align="center">👀 Visitors Count</h3>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Ahsaan396/count.svg?" height="150"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahsaan396&style=for-the-badge&color=0e75b6&label=Total+Visitors&labelColor=0f2b49" alt="Visitor Badge" height="60"/>
 </div>
 <br>
 
