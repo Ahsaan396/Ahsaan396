@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js & React.js**  
 - 🤝 I’m looking for help with **MERN Stack**  
-- 💬 Ask me about **Web Development**  
+- 💬 Ask me about **Web Development and ICT**  
 - 📫 How to reach me **ahsanulhakim285@gmail.com**  
 
 ---
